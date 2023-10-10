@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMel74
-- 👀 I’m interested in ... All things computer networking and security....primarily Cisco, but like to learn as much as I can absorb.
+- 👀 I’m interested in ... All things computer networking and security....primarily Cisco, but like to learn as much as I can absorb. Beginning vlogging (youtube, twitch, etc). How to invest for my and my family's future, and to eventually leave the 9-5 far behind!
 - 🌱 I’m currently learning ... Cisco ISE, Cisco Firepower (FMC), Cisco Secure Firewall (known the PIX and ASA since the beginning), Cisco Nexus/DC, Azure infrastructure
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ...
